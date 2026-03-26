@@ -8,7 +8,7 @@ Keyword-based filters and regex matching are insufficient for modern LLM applica
 *Justification*: We chose DistilBERT (`distilbert-base-uncased`) because it provides an optimal trade-off between model size (66M parameters), inference speed (P95 latency ~30ms on CPU), and accuracy. Larger models scale poorly for a real-time firewall, while smaller keyword systems lack semantic understanding.
 
 ## 3. Dataset
-The dataset consists of 500 rows balanced equally across 5 classes (100 rows each):
+The dataset consists of 592 rows balanced across 5 classes (including 92 newly added custom prompts):
 
 | Class | Source | Avg Length |
 |---|---|---|
@@ -28,25 +28,25 @@ The dataset consists of 500 rows balanced equally across 5 classes (100 rows eac
 
 ## 5. Training Setup
 - **Hardware**: CPU Only (`no_cuda=True`)
-- **Epochs**: 5
+- **Epochs**: Early stopping at 8 (best weights from epoch 5)
 - **Batch Size**: 8 (train), 16 (eval)
 - **Learning Rate**: 2e-5
 - **Early Stopping**: Patience of 3
-- **Total Training Time**: ~159s
+- **Total Training Time**: ~322.8s
 
-Overfitting was observed after epoch 3–4 due to the small dataset size (350 training rows). This is expected and documented as a research finding.
+Overfitting started to appear around epoch 8, but early stopping successfully halted training and saved the optimally generalized checkpoint from epoch 5.
 
-**P95 Latency**: ~30.3ms on CPU (well below the 100ms real-time threshold).
+**P95 Latency**: 32.4ms on CPU (well below the 100ms real-time threshold).
 
 ## 6. Results
 
 | Model | Accuracy | Macro F1 | P95 Latency (CPU) |
 |---|---|---|---|
-| Keyword baseline | 0.25 | 0.16 | <1.0ms |
-| Pre-trained (zero-shot) | 0.83 | 0.24 | ~16.1ms |
-| **DistilBERT fine-tuned** | **1.00** | **1.00** | **~30.3ms** |
+| Keyword baseline | 0.35 | 0.26 | <1.0ms |
+| Pre-trained (zero-shot) | 0.88 | 0.42 | ~16.2ms |
+| **DistilBERT fine-tuned** | **0.96** | **0.96** | **32.4ms** |
 
-Red-team evaluation at threshold=0.5: **97.1% block rate** on harmful prompts, **10.0% FPR** on benign prompts.
+Red-team evaluation at threshold=0.5: **85.7% block rate** on harmful prompts, **10.0% FPR** on benign prompts.
 
 ## 7. Error Analysis
 Three documented failure patterns from red-team and error analysis:
