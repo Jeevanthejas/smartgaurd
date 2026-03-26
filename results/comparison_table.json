@@ -9,12 +9,12 @@
         "Model": "Pre-trained (zero-shot)",
         "Accuracy": 0.88,
         "Macro F1": 0.42,
-        "P95 Latency": "20.4ms"
+        "P95 Latency": "16.2ms"
     },
     {
         "Model": "DistilBERT fine-tuned",
-        "Accuracy": 0.94,
-        "Macro F1": 0.95,
-        "P95 Latency": "36.6ms"
+        "Accuracy": 0.96,
+        "Macro F1": 0.96,
+        "P95 Latency": "32.4ms"
     }
 ]
