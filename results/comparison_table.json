@@ -1,0 +1,20 @@
+[
+    {
+        "Model": "Keyword baseline",
+        "Accuracy": 0.35,
+        "Macro F1": 0.26,
+        "P95 Latency": "0.0ms"
+    },
+    {
+        "Model": "Pre-trained (zero-shot)",
+        "Accuracy": 0.88,
+        "Macro F1": 0.42,
+        "P95 Latency": "20.4ms"
+    },
+    {
+        "Model": "DistilBERT fine-tuned",
+        "Accuracy": 0.94,
+        "Macro F1": 0.95,
+        "P95 Latency": "36.6ms"
+    }
+]

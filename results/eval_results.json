@@ -1,0 +1,69 @@
+{
+    "distilbert_finetuned": {
+        "accuracy": 0.9438202247191011,
+        "macro_f1": 0.9478374908290537,
+        "per_class": {
+            "safe": {
+                "precision": 0.9166666666666666,
+                "recall": 0.9565217391304348,
+                "f1": 0.9361702127659575
+            },
+            "jailbreak": {
+                "precision": 0.9473684210526315,
+                "recall": 0.8571428571428571,
+                "f1": 0.9
+            },
+            "injection": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "toxic": {
+                "precision": 0.8823529411764706,
+                "recall": 1.0,
+                "f1": 0.9375
+            },
+            "pii": {
+                "precision": 1.0,
+                "recall": 0.9333333333333333,
+                "f1": 0.9655172413793104
+            }
+        }
+    },
+    "keyword_baseline": {
+        "accuracy": 0.34831460674157305,
+        "macro_f1": 0.25831065809501935,
+        "per_class": {
+            "safe": {
+                "precision": 0.2948717948717949,
+                "recall": 1.0,
+                "f1": 0.45544554455445546
+            },
+            "jailbreak": {
+                "precision": 1.0,
+                "recall": 0.09523809523809523,
+                "f1": 0.17391304347826086
+            },
+            "injection": {
+                "precision": 1.0,
+                "recall": 0.13333333333333333,
+                "f1": 0.23529411764705882
+            },
+            "toxic": {
+                "precision": 0.75,
+                "recall": 0.2,
+                "f1": 0.3157894736842105
+            },
+            "pii": {
+                "precision": 0.3333333333333333,
+                "recall": 0.06666666666666667,
+                "f1": 0.1111111111111111
+            }
+        }
+    },
+    "pretrained_baseline": {
+        "accuracy": 0.8764044943820225,
+        "f1_toxic_class": 0.42105263157894735,
+        "note": "Evaluated only as binary toxic/safe"
+    }
+}

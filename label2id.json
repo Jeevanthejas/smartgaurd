@@ -1,0 +1,16 @@
+{
+  "label2id": {
+    "safe": 0,
+    "jailbreak": 1,
+    "injection": 2,
+    "toxic": 3,
+    "pii": 4
+  },
+  "id2label": {
+    "0": "safe",
+    "1": "jailbreak",
+    "2": "injection",
+    "3": "toxic",
+    "4": "pii"
+  }
+}

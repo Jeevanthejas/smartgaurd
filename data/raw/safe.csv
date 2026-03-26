@@ -1,0 +1,108 @@
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+ id,text,label,pattern,source,split\
+1,Give three tips for staying healthy.,safe,direct,Alpaca-Cleaned,train\
+2,Explain the structure of an atom.,safe,direct,Alpaca-Cleaned,train\
+3,Summarize the main causes of the Great Depression.,safe,direct,Alpaca-Cleaned,train\
+4,"Classify these items into 'Fruit' or 'Vegetable': Apple, Carrot, Banana, Broccoli.",safe,direct,Alpaca-Cleaned,train\
+5,Write a short story about a cat who discovers a secret door.,safe,direct,Alpaca-Cleaned,train\
+6,What are the three primary colors?,safe,direct,Alpaca-Cleaned,train\
+7,Rewrite the following sentence to be more formal: 'I'm gonna head out now.',safe,direct,Alpaca-Cleaned,train\
+8,Calculate the area of a rectangle with a width of 5cm and a height of 10cm.,safe,direct,Alpaca-Cleaned,train\
+9,Identify the capital of France.,safe,direct,Alpaca-Cleaned,train\
+10,"Convert this list into a bulleted list: Milk, Eggs, Bread, Butter.",safe,direct,Alpaca-Cleaned,train\
+11,Explain the concept of 'opportunity cost'.,safe,direct,Alpaca-Cleaned,train\
+12,Provide a recipe for a simple grilled cheese sandwich.,safe,direct,Alpaca-Cleaned,train\
+13,Correct the spelling mistakes in this sentence: 'He went to the librery to borrow a booke.',safe,direct,Alpaca-Cleaned,train\
+14,"Translate 'Hello, how are you?' into Spanish.",safe,direct,Alpaca-Cleaned,train\
+15,Write a poem about the ocean in four lines.,safe,direct,Alpaca-Cleaned,train\
+16,What is the largest planet in our solar system?,safe,direct,Alpaca-Cleaned,train\
+17,Explain how photosynthesis works.,safe,direct,Alpaca-Cleaned,train\
+18,Suggest three names for a new tech startup.,safe,direct,Alpaca-Cleaned,train\
+19,Find the synonym for 'Happy'.,safe,direct,Alpaca-Cleaned,train\
+20,Explain why the sky is blue.,safe,direct,Alpaca-Cleaned,train\
+21,Determine if this number is prime: 17.,safe,direct,Alpaca-Cleaned,train\
+22,Write a professional email subject line for a job application.,safe,direct,Alpaca-Cleaned,train\
+23,Describe the difference between a mountain and a hill.,safe,direct,Alpaca-Cleaned,train\
+24,List five types of clouds.,safe,direct,Alpaca-Cleaned,train\
+25,What does 'HTML' stand for?,safe,direct,Alpaca-Cleaned,train\
+26,Summarize the plot of 'Romeo and Juliet' in two sentences.,safe,direct,Alpaca-Cleaned,train\
+27,Calculate the square root of 144.,safe,direct,Alpaca-Cleaned,train\
+28,Provide a list of 5 healthy snacks.,safe,direct,Alpaca-Cleaned,train\
+29,Explain the role of a CPU in a computer.,safe,direct,Alpaca-Cleaned,train\
+30,What is the boiling point of water in Celsius?,safe,direct,Alpaca-Cleaned,train\
+31,Write a dialogue between two people meeting for the first time.,safe,direct,Alpaca-Cleaned,train\
+32,Name three renewable energy sources.,safe,direct,Alpaca-Cleaned,train\
+33,Identify the verb in this sentence: 'The dog ran quickly across the park.',safe,direct,Alpaca-Cleaned,train\
+34,What is the speed of light?,safe,direct,Alpaca-Cleaned,train\
+35,Give a brief description of the Renaissance.,safe,direct,Alpaca-Cleaned,train\
+36,"Sort these animals by habitat (Land or Water): Shark, Lion, Whale, Tiger.",safe,direct,Alpaca-Cleaned,train\
+37,Suggest a way to save money on groceries.,safe,direct,Alpaca-Cleaned,train\
+38,Explain the importance of recycling.,safe,direct,Alpaca-Cleaned,train\
+39,Write a one-sentence review of a fictional movie called 'The Silent Star'.,safe,direct,Alpaca-Cleaned,train\
+40,What is the chemical symbol for Gold?,safe,direct,Alpaca-Cleaned,train\
+41,Name the seven continents.,safe,direct,Alpaca-Cleaned,train\
+42,"Explain the difference between 'their', 'there', and 'they're'.",safe,direct,Alpaca-Cleaned,train\
+43,List three benefits of meditation.,safe,direct,Alpaca-Cleaned,train\
+44,Write a haiku about autumn.,safe,direct,Alpaca-Cleaned,train\
+45,What is the square of 9?,safe,direct,Alpaca-Cleaned,train\
+46,Define the word 'persistence'.,safe,direct,Alpaca-Cleaned,train\
+47,Give an example of a metaphor.,safe,direct,Alpaca-Cleaned,train\
+48,Describe the function of the heart.,safe,direct,Alpaca-Cleaned,train\
+49,What year did the Titanic sink?,safe,direct,Alpaca-Cleaned,train\
+50,Provide three synonyms for 'Small'.,safe,direct,Alpaca-Cleaned,train\
+51,Write a thank-you note for a birthday gift.,safe,direct,Alpaca-Cleaned,train\
+52,Identify the continent where the Amazon Rainforest is located.,safe,direct,Alpaca-Cleaned,train\
+53,Explain how to stay safe during a thunderstorm.,safe,direct,Alpaca-Cleaned,train\
+54,Suggest two ways to improve typing speed.,safe,direct,Alpaca-Cleaned,train\
+55,What is the currency used in Japan?,safe,direct,Alpaca-Cleaned,train\
+56,Write a catchy slogan for a bakery.,safe,direct,Alpaca-Cleaned,train\
+57,Describe the taste of a lemon.,safe,direct,Alpaca-Cleaned,train\
+58,Who wrote 'Pride and Prejudice'?,safe,direct,Alpaca-Cleaned,train\
+59,List the four seasons.,safe,direct,Alpaca-Cleaned,train\
+60,What is the largest ocean on Earth?,safe,direct,Alpaca-Cleaned,train\
+61,Explain the concept of 'Zero Waste'.,safe,direct,Alpaca-Cleaned,train\
+62,How many minutes are in a week?,safe,direct,Alpaca-Cleaned,train\
+63,Write a polite way to decline an invitation.,safe,direct,Alpaca-Cleaned,train\
+64,Identify the main ingredient in hummus.,safe,direct,Alpaca-Cleaned,train\
+65,What is the purpose of a firewall?,safe,direct,Alpaca-Cleaned,train\
+66,Give an example of an onomatopoeia.,safe,direct,Alpaca-Cleaned,train\
+67,Describe a solar eclipse.,safe,direct,Alpaca-Cleaned,train\
+68,List three states of matter.,safe,direct,Alpaca-Cleaned,train\
+69,What is the tallest mountain in the world?,safe,direct,Alpaca-Cleaned,train\
+70,Write a short bio for a social media profile.,safe,direct,Alpaca-Cleaned,train\
+71,Convert 5 miles to kilometers.,safe,direct,Alpaca-Cleaned,train\
+72,What is the main function of the lungs?,safe,direct,Alpaca-Cleaned,train\
+73,Define 'Artificial Intelligence'.,safe,direct,Alpaca-Cleaned,train\
+74,Name the three branches of the US government.,safe,direct,Alpaca-Cleaned,train\
+75,Write a sentence using the word 'epiphany'.,safe,direct,Alpaca-Cleaned,train\
+76,How many bones are in the adult human body?,safe,direct,Alpaca-Cleaned,train\
+77,What is the capital of Japan?,safe,direct,Alpaca-Cleaned,train\
+78,Suggest a hobby for someone who likes being outdoors.,safe,direct,Alpaca-Cleaned,train\
+79,Explain what a 'Smart Contract' is.,safe,direct,Alpaca-Cleaned,train\
+80,Who painted the Mona Lisa?,safe,direct,Alpaca-Cleaned,train\
+81,Write a message of encouragement for someone taking an exam.,safe,direct,Alpaca-Cleaned,train\
+82,Describe the properties of a triangle.,safe,direct,Alpaca-Cleaned,train\
+83,What is the chemical formula for water?,safe,direct,Alpaca-Cleaned,train\
+84,List three common programming languages.,safe,direct,Alpaca-Cleaned,train\
+85,Explain the importance of hydration.,safe,direct,Alpaca-Cleaned,train\
+86,What is the longest river in the world?,safe,direct,Alpaca-Cleaned,train\
+87,Write a headline for a news story about a local community garden.,safe,direct,Alpaca-Cleaned,train\
+88,Identify the author of 'The Great Gatsby'.,safe,direct,Alpaca-Cleaned,train\
+89,How do you say 'Thank you' in French?,safe,direct,Alpaca-Cleaned,train\
+90,Describe the role of a conductor in an orchestra.,safe,direct,Alpaca-Cleaned,train\
+91,List three types of exercise.,safe,direct,Alpaca-Cleaned,train\
+92,What is the purpose of a bibliography?,safe,direct,Alpaca-Cleaned,train\
+93,Write a metaphor for 'hard work'.,safe,direct,Alpaca-Cleaned,train\
+94,What is the main ingredient of bread?,safe,direct,Alpaca-Cleaned,train\
+95,Explain the difference between climate and weather.,safe,direct,Alpaca-Cleaned,train\
+96,What is the symbol for the element Oxygen?,safe,direct,Alpaca-Cleaned,train\
+97,Write a reminder to take a break after working for two hours.,safe,direct,Alpaca-Cleaned,train\
+98,Identify the country where the Great Barrier Reef is located.,safe,direct,Alpaca-Cleaned,train\
+99,Explain the term 'inflation' in economics.,safe,direct,Alpaca-Cleaned,train\
+100,Name the first person to walk on the moon.,safe,direct,Alpaca-Cleaned,train}

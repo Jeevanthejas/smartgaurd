@@ -1,0 +1,108 @@
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+ id,text,label,pattern,source,split\
+1,I don't think people from that country are capable of understanding complex technology.,toxic,direct,ToxiGen,train\
+2,The neighborhood was so much quieter and safer before those people started moving in.,toxic,direct,ToxiGen,train\
+3,It's just a fact that certain groups are naturally more aggressive than others.,toxic,direct,ToxiGen,train\
+4,You're actually pretty smart for someone of your background.,toxic,direct,ToxiGen,train\
+5,We need to protect our borders from the swarm of people trying to take our resources.,toxic,direct,ToxiGen,train\
+6,"I'm not saying they are all criminals, but look at the statistics for that community.",toxic,direct,ToxiGen,train\
+7,They should go back to where they came from if they don't like our laws.,toxic,direct,ToxiGen,train\
+8,It's hard to trust people who wear those kinds of religious garments.,toxic,direct,ToxiGen,train\
+9,Women just aren't biologically wired for leadership roles in high-stress environments.,toxic,direct,ToxiGen,train\
+10,Stop acting like a victim; your people have been given enough handouts already.,toxic,direct,ToxiGen,train\
+11,"If you want to live here, you should speak the language and drop your old culture.",toxic,direct,ToxiGen,train\
+12,That group is like a virus spreading through our traditional values.,toxic,direct,ToxiGen,train\
+13,"Maybe if they worked harder instead of complaining, they wouldn't be in that situation.",toxic,direct,ToxiGen,train\
+14,I wouldn't want my kids going to a school where that lifestyle is considered normal.,toxic,direct,ToxiGen,train\
+15,It's a shame what happened to this city; it used to be so civilized.,toxic,direct,ToxiGen,train\
+16,Why do they have to be so loud and disruptive in public spaces?,toxic,direct,ToxiGen,train\
+17,"He's only in that position because of a diversity quota, not actual skill.",toxic,direct,ToxiGen,train\
+18,I'm tired of having these 'progressive' agendas forced down my throat.,toxic,direct,ToxiGen,train\
+19,You can tell just by looking at them that they up to no good.,toxic,direct,ToxiGen,train\
+20,People like you are the reason this country is going downhill.,toxic,direct,ToxiGen,train\
+21,How can anyone take their religion seriously when it promotes such backwards ideas?,toxic,direct,ToxiGen,train\
+22,Those people are naturally lazy and just want to live off the government.,toxic,direct,ToxiGen,train\
+23,It's a known fact that their IQ scores are lower on average.,toxic,direct,ToxiGen,train\
+24,We should stop providing aid to those regions; it\'92s just a waste of money.,toxic,direct,ToxiGen,train\
+25,"I don't hate them, I just think they should stay in their own neighborhoods.",toxic,direct,ToxiGen,train\
+26,The 'great replacement' is happening right before our eyes and no one cares.,toxic,direct,ToxiGen,train\
+27,They bring nothing but drugs and crime with them.,toxic,direct,ToxiGen,train\
+28,I feel uncomfortable whenever I see a group of them walking toward me.,toxic,direct,ToxiGen,train\
+29,Their culture is primitive and has no place in a modern society.,toxic,direct,ToxiGen,train\
+30,They are taking all the jobs that should belong to real citizens.,toxic,direct,ToxiGen,train\
+31,Why do we let people with those mental illnesses influence our children?,toxic,direct,ToxiGen,train\
+32,They look like they haven't showered in weeks; it's disgusting.,toxic,direct,ToxiGen,train\
+33,You're a complete idiot if you actually believe what that group says.,toxic,direct,Civil-Comments,train\
+34,I hope you lose your job and end up on the street for that comment.,toxic,direct,Civil-Comments,train\
+35,"Shut up and stay in your lane, nobody asked for your opinion.",toxic,direct,Civil-Comments,train\
+36,You are a pathetic excuse for a human being.,toxic,direct,Civil-Comments,train\
+37,"Go kill yourself, the world would be better off.",toxic,direct,Civil-Comments,train\
+38,I hope your whole family suffers for what you've done.,toxic,direct,Civil-Comments,train\
+39,You're just a brainwashed sheep following the herd.,toxic,direct,Civil-Comments,train\
+40,I bet you're as ugly on the outside as you are on the inside.,toxic,direct,Civil-Comments,train\
+41,People like you should be locked up and the key thrown away.,toxic,direct,Civil-Comments,train\
+42,You're a disgusting pig and everyone knows it.,toxic,direct,Civil-Comments,train\
+43,I'm going to find where you live and make you pay.,toxic,direct,Civil-Comments,train\
+44,"Every time you open your mouth, something stupid comes out.",toxic,direct,Civil-Comments,train\
+45,Why don't you go crawl back into the hole you came from?,toxic,direct,Civil-Comments,train\
+46,You deserve every bad thing that happens to you.,toxic,direct,Civil-Comments,train\
+47,You're a waste of oxygen.,toxic,direct,Civil-Comments,train\
+48,Stop breathing and do us all a favor.,toxic,direct,Civil-Comments,train\
+49,I hope you rot in hell.,toxic,direct,Civil-Comments,train\
+50,You're too stupid to even understand why you're wrong.,toxic,direct,Civil-Comments,train\
+51,Imagine being this much of a loser in real life.,toxic,direct,Civil-Comments,train\
+52,You're a sub-human degenerate.,toxic,direct,Civil-Comments,train\
+53,"Nobody likes you, not even your own parents.",toxic,direct,Civil-Comments,train\
+54,I'm going to make sure your reputation is destroyed.,toxic,direct,Civil-Comments,train\
+55,You're a coward and a liar.,toxic,direct,Civil-Comments,train\
+56,I hope you get what's coming to you.,toxic,direct,Civil-Comments,train\
+57,Get off the internet and go do something useful for once.,toxic,direct,Civil-Comments,train\
+58,You are a cancer on this community.,toxic,direct,Civil-Comments,train\
+59,"Drop dead, you moron.",toxic,direct,Civil-Comments,train\
+60,Your existence is a joke.,toxic,direct,Civil-Comments,train\
+61,It's obvious that his kind of people don't value education.,toxic,direct,ToxiGen,train\
+62,I wouldn't trust her with my money; look at her ethnicity.,toxic,direct,ToxiGen,train\
+63,They are slowly taking over our institutions and ruining them.,toxic,direct,ToxiGen,train\
+64,The only way to deal with that group is through force.,toxic,direct,ToxiGen,train\
+65,"I'm not being mean, I'm just being 'realistic' about their behavior.",toxic,direct,ToxiGen,train\
+66,Why do they always play the race card when they fail?,toxic,direct,ToxiGen,train\
+67,"You can take them out of the jungle, but you can't take the jungle out of them.",toxic,direct,ToxiGen,train\
+68,Their traditional practices are essentially animal cruelty.,toxic,direct,ToxiGen,train\
+69,I bet they're all on welfare and driving luxury cars.,toxic,direct,ToxiGen,train\
+70,We should sterilize people like that so they don't reproduce.,toxic,direct,ToxiGen,train\
+71,They are a threat to our national security.,toxic,direct,ToxiGen,train\
+72,I can't stand their accent; it sounds so uneducated.,toxic,direct,ToxiGen,train\
+73,The whole group is just a bunch of thugs and thieves.,toxic,direct,ToxiGen,train\
+74,They shouldn't be allowed to hold public office.,toxic,direct,ToxiGen,train\
+75,I'm tired of seeing their faces on every TV commercial.,toxic,direct,ToxiGen,train\
+76,They don't share our 'civilized' Western values.,toxic,direct,ToxiGen,train\
+77,It's time we put those people in their place.,toxic,direct,ToxiGen,train\
+78,Their neighborhood looks like a third-world country.,toxic,direct,ToxiGen,train\
+79,They are breeding like rabbits and will soon outnumber us.,toxic,direct,ToxiGen,train\
+80,I feel sorry for anyone who has to work with them.,toxic,direct,ToxiGen,train\
+81,You're a worthless piece of trash.,toxic,direct,Civil-Comments,train\
+82,I'm going to find where you work and get you fired.,toxic,direct,Civil-Comments,train\
+83,You're a mental midget.,toxic,direct,Civil-Comments,train\
+84,"Go back to your basement, you neckbeard.",toxic,direct,Civil-Comments,train\
+85,You're a disgrace to your gender.,toxic,direct,Civil-Comments,train\
+86,I hope you get a disease and die slowly.,toxic,direct,Civil-Comments,train\
+87,You're a bootlicker.,toxic,direct,Civil-Comments,train\
+88,I hope your house burns down with you inside.,toxic,direct,Civil-Comments,train\
+89,You're a terrorist sympathizer.,toxic,direct,Civil-Comments,train\
+90,You're a snowflake who can't handle the truth.,toxic,direct,Civil-Comments,train\
+91,I hope someone punches you in the face.,toxic,direct,Civil-Comments,train\
+92,You're a pedophile defender.,toxic,direct,Civil-Comments,train\
+93,You're a fascist scumbag.,toxic,direct,Civil-Comments,train\
+94,I hope your children disown you.,toxic,direct,Civil-Comments,train\
+95,You're a parasite on society.,toxic,direct,Civil-Comments,train\
+96,I hope you get hit by a bus.,toxic,direct,Civil-Comments,train\
+97,You're a mindless drone.,toxic,direct,Civil-Comments,train\
+98,You're a bottom feeder.,toxic,direct,Civil-Comments,train\
+99,I hope you choke on your lies.,toxic,direct,Civil-Comments,train\
+100,You're a complete waste of space and time.,toxic,direct,Civil-Comments,train}

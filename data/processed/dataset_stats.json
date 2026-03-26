@@ -1,0 +1,55 @@
+{
+    "total_rows_after_cleaning": 592,
+    "rows_per_class": {
+        "safe": 152,
+        "jailbreak": 140,
+        "injection": 100,
+        "pii": 100,
+        "toxic": 100
+    },
+    "mean_text_length_per_class": {
+        "injection": 103.74,
+        "jailbreak": 64.81428571428572,
+        "pii": 62.55,
+        "safe": 40.57236842105263,
+        "toxic": 53.95
+    },
+    "min_text_length_per_class": {
+        "injection": 77,
+        "jailbreak": 19,
+        "pii": 34,
+        "safe": 18,
+        "toxic": 20
+    },
+    "max_text_length_per_class": {
+        "injection": 173,
+        "jailbreak": 103,
+        "pii": 78,
+        "safe": 91,
+        "toxic": 87
+    },
+    "train_size": 414,
+    "val_size": 89,
+    "test_size": 89,
+    "train_per_class": {
+        "safe": 106,
+        "jailbreak": 98,
+        "injection": 70,
+        "toxic": 70,
+        "pii": 70
+    },
+    "val_per_class": {
+        "safe": 23,
+        "jailbreak": 21,
+        "injection": 15,
+        "toxic": 15,
+        "pii": 15
+    },
+    "test_per_class": {
+        "safe": 23,
+        "jailbreak": 21,
+        "injection": 15,
+        "toxic": 15,
+        "pii": 15
+    }
+}
