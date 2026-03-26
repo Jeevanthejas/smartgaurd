@@ -25,3 +25,4 @@ model/checkpoint-*/
 
 # Logs
 *.log
+model/checkpoint-*/
