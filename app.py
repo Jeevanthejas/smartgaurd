@@ -55,7 +55,7 @@ with tab1:
             confidence = float(probs[pred_id])
 
             is_blocked = (confidence > threshold) and (pred_class != 'safe')
-            verdict = "BLOCKED" if is_blocked else "ALLOWED"
+            verdict = "UNSAFE(BLOCKED)" if is_blocked else "SAFE(ALLOWED)"
             color = "red" if is_blocked else "green"
 
             st.markdown(f"### Verdict: <span style='color:{color}'>{verdict}</span>", unsafe_allow_html=True)
